@@ -1,0 +1,11 @@
+{
+  "name": "syrian-student-app",
+  "version": "1.1.0",
+  "description": "The Syrian Student App, an intelligent assistant for Syrian students.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
